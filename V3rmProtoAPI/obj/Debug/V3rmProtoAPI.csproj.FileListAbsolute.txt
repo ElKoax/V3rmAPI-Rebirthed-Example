@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\bin\Debug\V3rmProtoAPI.exe.config
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\bin\Debug\V3rmProtoAPI.exe
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\bin\Debug\V3rmProtoAPI.pdb
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\bin\Debug\V3rmAPI.dll
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\obj\Debug\V3rmProtoAPI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\obj\Debug\V3rmProtoAPI.Form1.resources
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\obj\Debug\V3rmProtoAPI.Properties.Resources.resources
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\obj\Debug\V3rmProtoAPI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\obj\Debug\V3rmProtoAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\obj\Debug\V3rmProtoAPI.csproj.CopyComplete
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\obj\Debug\V3rmProtoAPI.exe
+C:\Users\user\source\repos\V3rmProtoAPI\V3rmProtoAPI\obj\Debug\V3rmProtoAPI.pdb

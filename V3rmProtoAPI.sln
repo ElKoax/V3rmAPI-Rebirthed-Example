@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V3rmProtoAPI", "V3rmProtoAPI\V3rmProtoAPI.csproj", "{E54090E2-6B89-48E7-904B-F0A3F4391055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54090E2-6B89-48E7-904B-F0A3F4391055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54090E2-6B89-48E7-904B-F0A3F4391055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54090E2-6B89-48E7-904B-F0A3F4391055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54090E2-6B89-48E7-904B-F0A3F4391055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {636CC701-4D0E-46F8-959B-ABA4CE60F77E}
+	EndGlobalSection
+EndGlobal
